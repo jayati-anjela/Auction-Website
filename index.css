@@ -22,8 +22,6 @@
   }
 
 
-
-
 /* banner */
 .banner {
     /* The image used */
@@ -33,12 +31,18 @@
 
 .header {
   width: 100%;
-  /* padding:60px 0; */
-  /* text-align: center; */
-  /* background:
-  url(J:/Auction-Website/images/banner.png);
-  background-repeat: no-repeat; */
-  /* background-attachment: fixed; */
-  /* background-size: cover; */
-  /* color: white; */
+}
+
+/* stats */
+
+.stats {
+  width: 100vw;
+  max-width:100%;
+  height: 30vh;
+  text-align: center;
+  background-color: #F4DAEE;
+}
+
+.stats h1 {
+  padding-top: 5rem ;
 }
