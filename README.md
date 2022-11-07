@@ -1,4 +1,4 @@
-## Auction Website
+## Ecommerce Website || Eden.io
 
 <p>An e-commerce website is a website that allows people to buy and sell physical goods, services, and digital products over the internet rather than a physical location.</p>
 
