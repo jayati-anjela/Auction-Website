@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jayati-anjela/Auction-Website"
+    "url": "https://github.com/jayati-anjela/Ecommerce-Website"
   },
   "author": "Jayati | https://github.com/jayati-anjela",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jayati-anjela/Auction-Website/issues"
+    "url": "https://github.com/jayati-anjela/Ecommerce-Website/issues"
   },
-  "homepage": "https://github.com/jayati-anjela/Auction-Website",
+  "homepage": "https://github.com/jayati-anjela/Ecommerce-Website",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
